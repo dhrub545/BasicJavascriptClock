@@ -1,0 +1,38 @@
+#ttl {
+    color : yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center; 
+}
+#ttl:hover {
+    color : orangered;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    text-align: center; 
+}
+body{
+    background-color: blue;
+    color : yellow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: larger;
+}
+#btn {
+    width: 100px;
+    color : mintcream;
+    background-color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: auto;
+    border: none;
+    border-radius: 5px;
+}
+#btn:hover {
+    width: 100px;
+    color : black;
+    background-color: mintcream;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: auto;
+    border: none;
+    border-radius: 5px;
+}
